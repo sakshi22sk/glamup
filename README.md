@@ -1,2 +1,2 @@
 # glamup
-A smart AI-powered fashion assistant that helps  
+A smart AI-poweremd fashion assistant that helps  
