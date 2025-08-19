@@ -10,7 +10,7 @@ from PIL import Image
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
+# Load environment variables..
 load_dotenv()
 
 # Page configuration
@@ -723,4 +723,5 @@ def main():
 
 if _name_ == "_main_":
     main()
+
 
