@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Updated color tokens with baby pink, light purple, denim blue, and peacock green */
+  /* Updated color tokens with baby pink, light purple, denim blue, and peacock greens */
   --background: oklch(0.98 0.02 320); /* Soft baby pink background */
   --foreground: oklch(0.25 0.05 240); /* Deep purple-blue for text */
   --card: oklch(0.95 0.03 280); /* Light shy purple card background */
